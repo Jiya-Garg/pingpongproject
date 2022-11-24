@@ -1,0 +1,30 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+.heading h3 {
+    display: inline;
+}
+.heading button {
+    float: right;
+    font-size: 20px;
+}
+#playgame {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#restart {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer {
+    bottom: 0px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
